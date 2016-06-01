@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Productos</string>
+    <string name="crear_producto">PRODUCTO NUEVO</string>
+    <string name="editar_producto">EDITAR PRODUCTO</string>
+    <string name="detalle_producto">DETALLE DEL PRODUCTO</string>
+
+
+    <!--LAYOUT-->
+        <!--EDIT TEXT-->
+        <string name="etNombreProducto">Nombre del Producto</string>
+        <string name="etDescripcionProducto">Descripción del Producto</string>
+        <string name="etPrecioProducto">Precio del Producto</string>
+        <!--TEXTVIEW-->
+        <string name="tvNombreProducto">Nombre</string>
+        <string name="tvDescripcionProducto">Descripción</string>
+        <string name="tvPrecioProducto">Precio</string>
+
+    <!--MENU-->
+    <string name="menuItemBuscar">Buscar</string>
+    <string name="menuItemCrear">Crear</string>
+    <string name="menuItemGuardar">Guardar</string>
+    <string name="menuItemActualizar">Actualizar</string>
+    <string name="menuItemEliminar">Eliminar</string>
+
+</resources>
